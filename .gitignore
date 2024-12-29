@@ -2,3 +2,6 @@ credentials.json
 config.json
 *.env
 *.key
+
+TELEGRAM_BOT_TOKEN=your_new_token_here
+
