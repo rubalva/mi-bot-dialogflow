@@ -1,0 +1,66 @@
+{
+  "id": "0dca2c7e-e50c-4a6c-a89a-639200f09ec1",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "89b21dfa-19aa-45ab-a88d-9d52021136af",
+          "name": "nombre",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$nombre.original",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Hola bienvenido a  Energyplus - Tanit. Antes que nada, para una mejor atencion, podria decirnos su nombre por favor?"
+            },
+            {
+              "lang": "es",
+              "value": "Hola, un placer que nos visite. Por favor podria decirnos su nombre para una mejor atencion?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Hola $nombre.original estamos aqui para brindarle soluciones. \nEPI presta los siguientes servicios. Elija el  que sea de su interes:"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": -1,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

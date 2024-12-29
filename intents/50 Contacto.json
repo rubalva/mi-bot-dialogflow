@@ -1,0 +1,35 @@
+{
+  "id": "23ea1cf9-5e2a-43eb-ac80-42ed906e1388",
+  "name": "50 Contacto",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "✅ Puede Contactarse con nosotros a traves de las siguientes vias:\n\n 👉 Nuestra pagina web: https://www.energyplusintl.com/contacto/\n 👉 A nuestro numero de celular : https://bit.ly/3u0XrB3\n 👉 A nuestro email : contacto@energyplisintl.com"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

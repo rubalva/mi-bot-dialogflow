@@ -1,0 +1,145 @@
+{
+  "id": "a52e2dd5-1ef4-43f1-be30-f8c6a11a206c",
+  "name": "30 Gas y Petroleo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "✅ En OIL AND GAS, le ofrecemos los siguientes servicios:",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Exploracion"
+            },
+            {
+              "title": "Gestion de Operaciones"
+            },
+            {
+              "title": "Gerencia de Reservorios"
+            },
+            {
+              "title": "Adquisicion de Activos"
+            },
+            {
+              "title": "Rss No convencionales"
+            },
+            {
+              "title": "Recursos Renovables"
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "✅ En OIL AND GAS, le ofrecemos los siguientes servicios:",
+          "buttons": [
+            {
+              "postback": "https://www.energyplusintl.com/exploracion/",
+              "text": "Exploracion"
+            },
+            {
+              "postback": "https://www.energyplusintl.com/gestion-de-operaciones/",
+              "text": "Gestion Operaciones"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "👇",
+          "buttons": [
+            {
+              "postback": "https://www.energyplusintl.com/gerenciamiento-de-reservorios/",
+              "text": "Gerencia de Reservorios"
+            },
+            {
+              "postback": "https://www.energyplusintl.com/adquisicion-de-activos/",
+              "text": "Adquisicion de Activos"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "👇",
+          "buttons": [
+            {
+              "postback": "https://www.energyplusintl.com/recursos-no-convencionales/",
+              "text": "Recursos No Convencionales"
+            },
+            {
+              "postback": "https://www.energyplusintl.com/otros/",
+              "text": "Recursos Renovables"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Por favor haga click en  la opción de su interes para mas detalles, sino puede SOLICITAR una REUNION y nos comunicaremos con usted a la brevedad.👍"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

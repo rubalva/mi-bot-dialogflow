@@ -1,0 +1,30 @@
+[
+  {
+    "id": "55ef8d32-a0d2-46cc-a978-382b4bc296b2",
+    "data": [
+      {
+        "text": "consultora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "db5ca0b3-3c84-4593-8de7-9e782e928287",
+    "data": [
+      {
+        "text": "consultoria",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

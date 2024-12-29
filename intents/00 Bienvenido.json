@@ -1,0 +1,155 @@
+{
+  "id": "dc9133d0-292f-4aaf-ae55-4f8a8114230b",
+  "name": "00 Bienvenido",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "no.input",
+      "affectedContexts": [
+        {
+          "name": "empresa",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4dfd90c5-2ae2-4791-9dde-397913f32696",
+          "name": "nombre",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$nombre.original",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "👋😄Bienvenido, soy EPI-Bot . Antes que nada, para una mejor atencion, podria decirnos su nombre por favor?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Energyplus Intl presta los siguientes servicios. Elija el que sea de su interes:",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Tanit AI"
+            },
+            {
+              "title": "COnsultoria para Empresas"
+            },
+            {
+              "title": "Oil and Gas"
+            },
+            {
+              "title": "Quienes Somos"
+            },
+            {
+              "title": "COntacto"
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "$nombre , un placer que se haya interesado en nosotros 🤗, en que podemos servirle?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "Energyplus Intl presta los siguientes servicios. Elija el que sea de su interes:",
+          "buttons": [
+            {
+              "text": "Tanit AI"
+            },
+            {
+              "text": "Consultoria Empresas"
+            },
+            {
+              "text": "Oil and Gas"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "Si quiere saber mas de nosotros:",
+          "buttons": [
+            {
+              "text": "Quienes Somos"
+            },
+            {
+              "text": "Contacto"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "$nombre , un placer que se haya interesado en nosotros 🤗, en que podemos servirle?"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_NO_INPUT"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

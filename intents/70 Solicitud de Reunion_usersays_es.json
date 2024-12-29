@@ -1,0 +1,330 @@
+[
+  {
+    "id": "451abb59-89ec-4c80-a7c0-3093403499fe",
+    "data": [
+      {
+        "text": "5",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8a6311b0-eb49-4199-8646-9f45c8187bf8",
+    "data": [
+      {
+        "text": "a las 20",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d4248223-dfbb-4dde-aea5-4c6a0b7ec3c9",
+    "data": [
+      {
+        "text": "a las 20 horas",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a2a735cc-6cdb-42d6-ac43-4dba9a1934cf",
+    "data": [
+      {
+        "text": "a las 19",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " horas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "262daa47-d6d4-41c0-815b-8e08b7b47f50",
+    "data": [
+      {
+        "text": "21 de enero",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ddbb914a-a408-420a-b38b-d2df5b54692a",
+    "data": [
+      {
+        "text": "miercoles",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " 12 ",
+        "userDefined": false
+      },
+      {
+        "text": "a las 18 horas",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "004195ef-6ae3-440d-94b8-1f930b2530f7",
+    "data": [
+      {
+        "text": "jueves",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " 21",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2d0df39a-596f-4838-9bb4-f01eb6200f5c",
+    "data": [
+      {
+        "text": "para el ",
+        "userDefined": false
+      },
+      {
+        "text": "jueves",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a las 13 horas",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f7681ded-0513-4531-9a69-36566178a78b",
+    "data": [
+      {
+        "text": "miercoles",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a las 19",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " horas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ec42690a-145c-40da-946c-83c2af9e816f",
+    "data": [
+      {
+        "text": "por la mañana",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "de9e3c30-e5ca-46ac-8e69-784900e4f3dc",
+    "data": [
+      {
+        "text": "18 horas",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d3280954-b39c-4dae-b260-d4b0b0e291ca",
+    "data": [
+      {
+        "text": "quisiera ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " cita para ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "por la tarde",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d8078e50-8933-437c-9798-f4aa192eeeb0",
+    "data": [
+      {
+        "text": "quisiera ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " reunion ",
+        "userDefined": false
+      },
+      {
+        "text": "para mañana",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "aba43c08-bab5-4eae-b37f-330fa6386669",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e48ad8d3-0afd-4074-8540-a5069e5b37b5",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " reunion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3d0e3227-7b72-4119-9dd7-154d2f3cde2b",
+    "data": [
+      {
+        "text": "Solicitud de reunion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "fe70617e-d763-46f8-b0f9-84c96069fd9c",
+    "data": [
+      {
+        "text": "mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "cfb83633-0fc2-41a6-b2a2-aead716d8849",
+    "data": [
+      {
+        "text": "telefono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "15780730-e9ff-4016-a430-54c6d79b84c4",
+    "data": [
+      {
+        "text": "celular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "91cb6434-eef5-40d1-88ad-d932b33c45de",
+    "data": [
+      {
+        "text": "contacto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

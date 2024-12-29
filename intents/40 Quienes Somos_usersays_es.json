@@ -1,0 +1,41 @@
+[
+  {
+    "id": "b14b8fab-9c1a-4530-9526-052b9d477ed3",
+    "data": [
+      {
+        "text": "que es energyplus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "fdf1b2dd-28b8-457d-8899-fb415c5783b1",
+    "data": [
+      {
+        "text": "energyplus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7b62faca-ec07-42bf-a3b4-b9277c622274",
+    "data": [
+      {
+        "text": "quienes somos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

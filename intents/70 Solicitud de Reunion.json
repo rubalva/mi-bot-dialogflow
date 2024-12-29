@@ -1,0 +1,122 @@
+{
+  "id": "c1b52eae-aa3a-4b08-a52b-dd8403d91ce8",
+  "name": "70 Solicitud de Reunion",
+  "auto": true,
+  "contexts": [
+    "empresa"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d3cf821b-70d2-4d63-8cdd-f07d0b67609b",
+          "name": "date",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Perfecto, usted esta solicitando una reunion con nosotros. Para cuando quisiera la reunion?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a6e3f7a8-89ae-4dad-a918-91b8f6cd7df8",
+          "name": "time",
+          "required": true,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Por favor, ¿me diria a que hora quisiera la reunion?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "024939a6-c30f-4fc4-83eb-6c8585bc901b",
+          "name": "email",
+          "required": true,
+          "dataType": "@sys.email",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "ok, perfecto. Por favor, digame su correo electronico."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "97ab3884-8330-4d30-9258-dac4d4822e48",
+          "name": "razon",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$razon",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Cual es la razon de la reunion?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2baa6e83-35c1-4194-9712-6a5663ebaff8",
+          "name": "nombre",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$nombre",
+          "defaultValue": "#empresa.nombre",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

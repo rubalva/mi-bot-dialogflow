@@ -1,0 +1,41 @@
+[
+  {
+    "id": "78f15592-a40d-4dd6-9c05-3411b89f583e",
+    "data": [
+      {
+        "text": "gestion integral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c879d997-f01a-4827-9455-79a9494ecb37",
+    "data": [
+      {
+        "text": "manejo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2492b217-7867-43a9-8e26-5b657d489b72",
+    "data": [
+      {
+        "text": "gestion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

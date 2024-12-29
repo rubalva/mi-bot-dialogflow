@@ -1,0 +1,106 @@
+[
+  {
+    "id": "b91b51b0-ff39-4563-b68a-7790fba56471",
+    "data": [
+      {
+        "text": "tanit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3256cae9-bf79-409e-bdb5-52a16e9c76ec",
+    "data": [
+      {
+        "text": "quiero informacion sobre tanit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "80f00a08-fdca-4318-8b7a-1cb6da0b11d2",
+    "data": [
+      {
+        "text": "Quiero informacion sobre intelifencia artificial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "382d70f9-2b0b-4863-a4fc-7263434b93c1",
+    "data": [
+      {
+        "text": "Artificial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "93221572-9228-4713-aebd-2eef46f4346c",
+    "data": [
+      {
+        "text": "Inteligencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6a053020-69ef-4e74-bb2e-719af64f3dcb",
+    "data": [
+      {
+        "text": "IA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "09163dff-6190-4e7f-a4b2-ba3fcce6e50d",
+    "data": [
+      {
+        "text": "AI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e3daf10d-5baa-4b30-a2a0-8c7cd730d802",
+    "data": [
+      {
+        "text": "Inteligencia Artificial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

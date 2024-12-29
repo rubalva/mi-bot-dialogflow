@@ -1,0 +1,64 @@
+{
+  "id": "0371a34f-ad21-4fed-824b-3a23d52cd1f9",
+  "name": "20 Consultoria para Empresas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "27403424-75eb-4cc1-a6d3-ea834e172140",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "✅ Nuestros Servicios de Consultoria son los siguientes:\n1. Gestion Integral de Empresas\n2. Creacion de Empresas\n3. Auditoria de Procesos\n4. Plan de Marketing Digital\n5. Gestion de Proyectos\n6. Evaluacion de Proyectos de Inversion\n7. Otros Servicios"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Elija la opción que se adecue a lo que está buscando, sino puede:\n 👉 SOLICITAR también una REUNION y nos comunicaremos con usted a la brevedad.👍\n 👉 Conocer  los medios de CONTACTO con nosotros."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

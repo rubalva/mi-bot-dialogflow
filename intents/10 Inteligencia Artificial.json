@@ -1,0 +1,45 @@
+{
+  "id": "3ec94463-5858-4446-b0ca-eb40d97b79ec",
+  "name": "10 Inteligencia Artificial",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "✅ Con TANIT AI, usted dispone de soluciones basadas en Inteligencia Artificial:\n1. ChatBot Inteligente\n2. Whatsapp AutoSend\n3. Integracion Multicanal con FB, Telegram, Messenger\n4. Generacion de Modelos Predictivos aplicando IA"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Elija la opción que se adecue a lo que está buscando, sino puede:\n 👉 SOLICITAR también una REUNION y nos comunicaremos con usted a la brevedad.👍\n 👉 Conocer  los medios de CONTACTO con nosotros."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

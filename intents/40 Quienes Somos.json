@@ -1,0 +1,55 @@
+{
+  "id": "09f3d65c-823d-4be6-968e-9dee605bb6a2",
+  "name": "40 Quienes Somos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "✅ Energyplus Intl. nace con el objetivo de ayudar a las empresas a encarar proyectos de transformación para adaptarse a la nueva situación de los mercados.\nSe trabaja con un enfoque multidisciplinario apoyándonos en nuestro conocimiento y experiencia global aplicables en los mercados de Bolivia. Nuestra principal fortaleza es la adopción e integración de alta tecnología (Bots Inteligentes, Big Data, Inteligencia Artificial, Machine Learning) para facilitar los procesos de negocio."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si esta interesado en alguno de nuestro servicios solo diganos cual:\n👉 Tanit AI\n👉 Consultoria de Empresas\n👉 Oil and Gas\n👉 Contacto\n👉 Solicite una Reunion y nos comunicaremos a la brevedad con usted."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¿Tiene alguna otra consulta?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

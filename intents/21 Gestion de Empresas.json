@@ -1,0 +1,46 @@
+{
+  "id": "924b3cd4-a17f-4826-af86-7b963d560c9f",
+  "name": "21 Gestion de Empresas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "Gestion de Empresas",
+          "buttons": [
+            {
+              "postback": "https://www.energyplusintl.com/gestion-integral-de-empresas/",
+              "text": "Mas Informacion..."
+            },
+            {
+              "postback": "https://www.energyplusintl.com/contacto/",
+              "text": "Info de contacto..."
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

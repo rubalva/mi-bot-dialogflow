@@ -1,0 +1,105 @@
+[
+  {
+    "id": "423b399f-291d-4d8d-866f-ef9314fea41e",
+    "data": [
+      {
+        "text": "recursos petroleros",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5c61a6ef-ab57-44a1-b124-e40623eba092",
+    "data": [
+      {
+        "text": "petroleros",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "bb8bfd5b-c52c-4120-a441-094c67100fce",
+    "data": [
+      {
+        "text": "industria",
+        "userDefined": false
+      },
+      {
+        "text": " petrolera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b60247d0-eeb0-44b5-bbc6-1b4464848655",
+    "data": [
+      {
+        "text": "petroleo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2df65830-39e4-4743-82f0-ac5dd29ba883",
+    "data": [
+      {
+        "text": "gas",
+        "userDefined": false
+      },
+      {
+        "text": " y petroleo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "44e85980-511e-4680-838a-1954fc12f4bf",
+    "data": [
+      {
+        "text": "gas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "306182f5-7ddb-4a3f-b234-09ec812ce76f",
+    "data": [
+      {
+        "text": "oil and ",
+        "userDefined": false
+      },
+      {
+        "text": "gas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]
